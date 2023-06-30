@@ -60,8 +60,8 @@ export default function App3d() {
     //   //   icon: GiWaterfall,
     //   //   initiallyOpened: false,
     //   //   links: [
-    //   //     { label: "Subtopic 1", link: "/" },
-    //   //     { label: "Subtopic 2", link: "/" },
+    //   //     { label: "Solution 1", link: "/" },
+    //   //     { label: "Solution 2", link: "/" },
     //   //   ],
     //   // },
     // ]);

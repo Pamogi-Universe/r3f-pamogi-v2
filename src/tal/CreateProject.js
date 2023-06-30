@@ -205,8 +205,8 @@ export default function CreateProject() {
 // Define together the big work packages of the project (departments)
 // The project owner decides which departments he/she makes private, public or only for experts + on which work packages suggestions are enabled or disabled
 // The project owner adds on the departments where suggestions have enabled a reward per validated suggestion (POGI points)
-// Define together your next steps by slicing them down to executable tasks as small as possible by using topics, subtopics, sub subtopics and tasks
-// Be able to archive a topic, subtopic, sub subtopic or task
+// Define together your next steps by slicing them down to executable tasks as small as possible by using topics, solutions, sub solutions and tasks
+// Be able to archive a challenge, solution, sub subtopic or task
 // Put rewards on the tasks (money, POGI or own tokens (xPOGI))
 // Put rewards on referrals to tasks
 // Communicate about tasks and topics in comments to only project owner - project owner to only the contributor who has put the topic / task
